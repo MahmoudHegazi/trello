@@ -5,5 +5,5 @@ UI/UIX similar to Trello, all actions required this example is Bootstrap, HTML5,
 
 
 ## all features 
-![screenshot2](labels.JPG)
+![screenshot2](trello_model.JPG)
 
